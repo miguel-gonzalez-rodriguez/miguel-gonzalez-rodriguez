@@ -6,4 +6,3 @@ miguel-gonzalez-rodriguez/miguel-gonzalez-rodriguez is a ✨ special ✨ reposit
 You can click the Preview link to take a look at your changes.
 --->
 
-Añade debajo tus datos en una nueva rama.
